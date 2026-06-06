@@ -106,7 +106,7 @@ Além disso, foram calculados indicadores de retenção e abandono para diferent
 
 # Dashboard 
 
-# Link para visualização dos dashboards
+## Link para visualização dos dashboards
 https://datastudio.google.com/reporting/1ffba6a8-d363-413e-ba71-8589142cbe5f
 
 O dashboard foi desenvolvido no Looker Studio para apresentar os principais indicadores e insights obtidos durante a análise.
